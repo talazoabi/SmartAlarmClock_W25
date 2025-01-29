@@ -4,7 +4,7 @@
 This project is part of the **ICST Lab** at the Technion Institute of Technology.
   
 ## Details about the project
-**WiseRise** is an advanced smart alarm clock designed to improve productivity and efficiency. It integrates an Arduino-based ESP32 microcontroller and a Flutter-based Android app, which communicates seamlessly to manage tasks, set alarms, and sync with Google Calendar. The system provides both manual and calendar-based task management to ensure users are always on top of their day.
+**WiseRise** is an advanced smart alarm clock designed to improve productivity and efficiency. It integrates an Arduino-based ESP32 microcontroller and a Flutter-based Android app, which communicates seamlessly to manage tasks, set alarms, and sync with Google Calendar.
  
 ## Folder description :
 * ESP32: source code for the esp side (firmware).
