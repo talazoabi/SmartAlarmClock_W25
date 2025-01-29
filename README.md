@@ -1,4 +1,4 @@
-![Wiserise](https://github.com/your-username/your-repo/assets/your-gif-url.gif)
+![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/Assets/wiserise_gif.gif)
 
 ## WiseRise - A Smart Alarm Clock Project by :  Tala Zoabi & Maher Bitar
   
