@@ -1,4 +1,6 @@
-## XXXXX Project by :  
+![Wiserise](https://github.com/your-username/your-repo/assets/your-gif-url.gif)
+
+## WiseRise - A Smart Alarm Clock Project by :  Tala Zoabi & Maher Bitar
   
 ## Details about the project
  
