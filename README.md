@@ -1,4 +1,4 @@
-![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Assets/wiserise_gif.gif)
+![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Assets/gif_wiserise.gif)
 
 ## WiseRise - A Smart Alarm Clock Project by :  Tala Zoabi & Maher Bitar
 This project is part of the **ICST Lab** at the Technion Institute of Technology.
