@@ -43,6 +43,8 @@ WiFiManager - Version
 * XXXX - version XXXXX
 * XXXX - version XXXXX
 
+## Connection Diagram:
+![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Documentation/ConnectionDiagram.png)
 ## Project Poster:
  
 This project is part of ICST - The Interdisciplinary Center for Smart Technologies, Taub Faculty of Computer Science, Technion
