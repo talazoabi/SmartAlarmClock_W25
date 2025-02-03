@@ -1,7 +1,6 @@
 ![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Assets/gif_wiserise.gif)
 
 ## WiseRise - A Smart Alarm Clock Project by :  Tala Zoabi & Maher Bitar
-This project is part of the **ICST Lab** at the Technion Institute of Technology.
   
 ## Details about the project
 **WiseRise** is an advanced smart alarm clock designed to improve productivity and efficiency. It integrates an Arduino-based ESP32 microcontroller and a Flutter-based Android app, which communicates seamlessly to manage tasks, set alarms, and sync with Google Calendar.
@@ -49,6 +48,7 @@ This project is part of the **ICST Lab** at the Technion Institute of Technology
 ## Connection Diagram:
 ![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Documentation/ConnectionDiagram.png)
 ## Project Poster:
+![WiseRise](https://drive.google.com/file/d/1BfUkYLTmGm8Da4HlLJOf0UwWCrKVhTiH/view)
  
 This project is part of ICST - The Interdisciplinary Center for Smart Technologies, Taub Faculty of Computer Science, Technion
 https://icst.cs.technion.ac.il/
