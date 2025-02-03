@@ -1,4 +1,4 @@
-![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Assets/wiserise_gif.gif)
+![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Assets/gif_wiserise.gif)
 
 ## WiseRise - A Smart Alarm Clock Project by :  Tala Zoabi & Maher Bitar
 This project is part of the **ICST Lab** at the Technion Institute of Technology.
@@ -29,6 +29,16 @@ This project is part of the **ICST Lab** at the Technion Institute of Technology
 
 ## Arduino/ESP32 libraries used in this project:
 ## Arduino/ESP libraries installed for the project:
+ESP32-audioI2S-master - Version 3.0.13
+Adafruit NeoPixel - Version 1.12.3
+ArduinoJson - Version 7.2.1
+Firebase Esp32 Client - Version 
+MD_Parola - Version
+MD_MAX72XX - Version
+NTPClient - Version
+WiFiManager - Version
+
+
 * XXXX - version XXXXX
 * XXXX - version XXXXX
 * XXXX - version XXXXX
