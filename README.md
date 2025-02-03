@@ -28,20 +28,15 @@ This project is part of the **ICST Lab** at the Technion Institute of Technology
 * Assets: 3D printed parts, Audio files used in this project, 
 
 ## Arduino/ESP32 libraries used in this project:
-## Arduino/ESP libraries installed for the project:
+Firebase Esp32 Client - Version 4.4.16
 ESP32-audioI2S-master - Version 3.0.13
 Adafruit NeoPixel - Version 1.12.3
+WiFiManager - Version 2.0.17
 ArduinoJson - Version 7.2.1
-Firebase Esp32 Client - Version 
-MD_Parola - Version
-MD_MAX72XX - Version
-NTPClient - Version
-WiFiManager - Version
+MD_MAX72XX - Version 3.5.1
+MD_Parola - Version 3.7.3
+NTPClient - Version 3.2.1
 
-
-* XXXX - version XXXXX
-* XXXX - version XXXXX
-* XXXX - version XXXXX
 
 ## Connection Diagram:
 ![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Documentation/ConnectionDiagram.png)
