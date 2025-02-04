@@ -6,7 +6,7 @@
 #include "MyAudio.h"
 #include "MyButtons.h"
 #include "MyClock.h"
-#include "secrets.h"
+#include "Secrets.h"
 #include "parameters.h"
 
 WiFiManager wifiManager;
