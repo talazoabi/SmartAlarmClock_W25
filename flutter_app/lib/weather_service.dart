@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_database/firebase_database.dart';
 
 class WeatherService {
-  final String apiKey = '9dbcd89e7870c2c912b9a96ac1cd4d35';
+  final String apiKey = '********************************';
   final String baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
   Future<Map<String, dynamic>> fetchWeather(String city) async {

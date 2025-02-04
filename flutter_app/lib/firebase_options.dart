@@ -35,11 +35,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: "AIzaSyBdKcVdyowx2cPTXhUs48ox0v3D8MaXQG8",
-    databaseURL: "https://wiserise2360333-default-rtdb.europe-west1.firebasedatabase.app",
-    projectId: "wiserise2360333",
-    storageBucket: "wiserise2360333.firebasestorage.app",
-    messagingSenderId: "184325526558",
-    appId: "1:184325526558:web:2ed3d3e17f04aaef8bca0f",
+    apiKey: "******************************",
+    databaseURL: "*********************************************",
+    projectId: "******************",
+    storageBucket: "******************************",
+    messagingSenderId: "**************",
+    appId: "****************************************",
   );
 }

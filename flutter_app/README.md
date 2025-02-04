@@ -37,6 +37,3 @@ flutter pub get
 ## ⚠️ Notes
 - Do **not** commit `google-services.json`.
 - Manually add these files before building.
-
-## 📬 Contact
-For assistance, reach out to [tala.zu3bi@gmail.com].
