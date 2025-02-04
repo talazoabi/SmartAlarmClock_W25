@@ -1,6 +1,4 @@
 ![wiserise_gif](https://github.com/user-attachments/assets/6c7d8164-e5b4-4206-965f-dd44bdb5e135)
-
-
 ## 🚀 WiseRise - A Smart Alarm Clock Project by :  Tala Zoabi & Maher Bitar
   
 ## 📌 Details about the project
