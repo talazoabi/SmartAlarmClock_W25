@@ -4,7 +4,7 @@
 
 | # | **Hardware** | **Results** | **Test Code** |
 |---|------------|------------|------------|
-| 1 | MAX7219 LED Matrix 8x32 | Showed text and scrolling text as expected. | [Display Test Code(https://lastminuteengineers.com/max7219-dot-matrix-arduino-tutorial/) |
+| 1 | MAX7219 LED Matrix 8x32 | Showed text and scrolling text as expected. | [Display Test Code](https://lastminuteengineers.com/max7219-dot-matrix-arduino-tutorial/) |
 | 2 | Analog Voltage Sensor (LDR) | Adjusted code to reverse effect, working properly. | `Analog->AnalogInOutSerial` |
 | 3 | Speaker + Max98357 | Initially had connection issues, resolved. Beeping sound confirmed. | `SpeakerWithButton.io` |
 | 4 | Button (ESP32) | Tested with speaker, works properly. | See #3 |
