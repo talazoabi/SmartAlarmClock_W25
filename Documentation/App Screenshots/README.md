@@ -7,8 +7,8 @@
 
 ## Inilialization Guide Page
 <p align="center">
-  <img src="Inilialization Guide Page 1.jpg" width="200"/>
-  <img src="Inilialization Guide Page 2.jpg" width="200"/>
+  <img src="Initialization Guide Page 1.jpg" width="200"/>
+  <img src="Initialization Guide Page 2.jpg" width="200"/>
 </p>
 
 ## Alarm Page
