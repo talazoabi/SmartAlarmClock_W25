@@ -31,7 +31,7 @@ Ensure the following before running the app:
 Follow the [official guide](https://flutter.dev/docs/get-started/install).
 
 ### 🔥 Firebase Setup
-- Add `google-services.json` to `android/app/`.
+Add `google-services.json` to `android/app/`.
 
 ### 📦 Install Dependencies
 ```sh
