@@ -1,4 +1,4 @@
-# 🔧 All Hardware - Libraries Used
+# 🔧 Hardware ESP-32 Code
 
 This directory contains the hardware code for the **WiseRise** project, including:
 
