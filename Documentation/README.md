@@ -7,7 +7,7 @@
 
 ## Home Page
 <p align="center">
-  <img src="/App Screenshots/Home Page.jpg" width="200"/>
+  <img src="/App%Screenshots/Home%Page.jpg" width="200"/>
 </p>
 
 ## Inilialization Guide Page
