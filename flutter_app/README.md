@@ -1,5 +1,5 @@
 # WiseRise Flutter App - A Smart Alarm Clock
-WiseRise is a smart alarm clock app built using Flutter. It integrates with Firebase and an ESP32-based IoT device to offer a seamless waking-up experience while managing daily tasks efficiently.
+This directory contains the source code for the WiseRise app, built using Flutter. The app integrates with Firebase and the ESP32-based physical clock.
 
 ## 📌 Features
 - ⏰ **Smart Alarm Clock** – Add and track alarms within the app.
