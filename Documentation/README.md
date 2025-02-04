@@ -47,6 +47,6 @@
   <img src="Physical Clock Pictures/Board.jpg" width="200"/>
   <img src="Physical Clock Pictures/Clock from the inside.jpg" width="200"/>
   <img src="Physical Clock Pictures/Physical Clock 1.jpg" width="200"/>
-  <img src="Physical Clock Pictures/Physical Clock 2.jpg" width="200"/>
+  <img src="Physical Clock Pictures/Physical Clock 2 2.jpg" width="200"/>
 </p>
 
