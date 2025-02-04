@@ -1,4 +1,4 @@
-# wiserise
+# WiseRise
 
 IoT Project - Smart Alarm Clock
 
