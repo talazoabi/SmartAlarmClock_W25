@@ -1,7 +1,7 @@
 # Documentation
 
 # Initialization Guide - How to set the physical clock
-[View PDF](WiseRise Info Guide.pdf)
+[View PDF](WiseRise%20Info%20Guide.pdf)
 
 # WiseRise App Screenshots
 
@@ -24,7 +24,7 @@
 
 ## Task Page
 <p align="center">
-  <img src="/App Screenshots/Tasks Page.jng" width="200"/>
+  <img src="/App Screenshots/Tasks Page.jpg" width="200"/>
   <img src="/App Screenshots/Edit Task Page 1.jpg" width="200"/>
   <img src="/App Screenshots/Edit Task Page 2.jpg" width="200"/>
   <img src="/App Screenshots/Edit Task Page 3.jpg" width="200"/>
