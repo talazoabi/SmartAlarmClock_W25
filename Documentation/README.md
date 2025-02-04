@@ -64,7 +64,7 @@ Your WiseRise device is now successfully connected and ready for use!
 # Physical Clock Pictures
 <p align="center">
   <img src="Physical Clock Pictures/Board.jpg" width="200", height="200"/>
-  <img src="Physical Clock Pictures/Clock from the inside.jpg" width="200"/>
+  <img src="Physical Clock Pictures/Clock from the inside.jpg" width="200, height="100"/>
   <img src="Physical Clock Pictures/Physical Clock 1.JPG" width="200"/>
   <img src="Physical Clock Pictures/Physical Clock 2.JPG" width="200"/>
 </p>
