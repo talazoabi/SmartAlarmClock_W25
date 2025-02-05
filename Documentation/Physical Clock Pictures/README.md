@@ -2,16 +2,16 @@
 
 ## Soldered Board
 <p align="center">
-  <img src="Board.jpg" width="200"/>
+  <img src="Board.jpg"/>
 </p>
 
 ## A look from inside
 <p align="center">
-  <img src="Clock from the inside.jpg" width="200"/>
+  <img src="Clock from the inside.jpg"/>
 </p>
 
 ## A look from outside
 <p align="center">
-  <img src="Physical Clock 1.JPG" width="200" height="200"/>
-  <img src="Physical Clock 2.JPG" width="200" height="200"/>
+  <img src="Physical Clock 1.JPG"/>
+  <img src="Physical Clock 2.JPG"/>
 </p>
