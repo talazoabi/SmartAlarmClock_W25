@@ -23,6 +23,8 @@
   <img src="Edit Task Page 1.jpg" width="200"/>
   <img src="Edit Task Page 2.jpg" width="200"/>
   <img src="Edit Task Page 3.jpg" width="200"/>
+  <img src="Task Error Msg 1.jpg" width="200"/>
+  <img src="Task Error Msg 2.jpg" width="200"/>
 </p>
 
 ## Google Calendar Page
