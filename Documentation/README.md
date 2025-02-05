@@ -26,46 +26,44 @@ Your WiseRise device is now successfully connected and ready for use!
 
 ## Home Page
 <p align="center">
-  <img src="App Screenshots/Home Page.jpg" width="200"/>
+  <img src="Home Page.jpg" width="200"/>
 </p>
 
 ## Inilialization Guide Page
 <p align="center">
-  <img src="App Screenshots/Inilialization Guide Page 1.jpg" width="200"/>
-  <img src="App Screenshots/Inilialization Guide Page 2.jpg" width="200"/>
+  <img src="Initialization Guide Page 1.jpg" width="200"/>
+  <img src="Initialization Guide Page 2.jpg" width="200"/>
 </p>
 
 ## Alarm Page
 <p align="center">
-  <img src="App Screenshots/Alarm Page.jpg" width="200"/>
-  <img src="App Screenshots/Edit Alarm Page.jpg" width="200"/>
+  <img src="Alarm Page.jpg" width="200"/>
+  <img src="Edit Alarm Page.jpg" width="200"/>
 </p>
 
 ## Task Page
 <p align="center">
-  <img src="App Screenshots/Tasks Page.jpg" width="200"/>
-  <img src="App Screenshots/Edit Task Page 1.jpg" width="200"/>
-  <img src="App Screenshots/Edit Task Page 2.jpg" width="200"/>
-  <img src="App Screenshots/Edit Task Page 3.jpg" width="200"/>
+  <img src="Tasks Page.jng" width="200"/>
+  <img src="Edit Task Page 1.jpg" width="200"/>
+  <img src="Edit Task Page 2.jpg" width="200"/>
+  <img src="Edit Task Page 3.jpg" width="200"/>
 </p>
 
 ## Google Calendar Page
 <p align="center">
-  <img src="App Screenshots/Google Calendar Page.jpg" width="200"/>
-  <img src="App Screenshots/Google Calendar Sign In.jpg" width="200"/>
-  <img src="App Screenshots/Google Calendar Page 2.jpg" width="200"/>
+  <img src="Google Calendar Page.jpg" width="200"/>
+  <img src="Google Calendar Sign In.jpg" width="200"/>
+  <img src="Google Calendar Page 2.jpg" width="200"/>
 </p>
 
 ## Settings Page
 <p align="center">
-  <img src="App Screenshots/Settings Page.jpg" width="200"/>
+  <img src="Settings Page.jpg" width="200"/>
 </p>
 
-# Physical Clock Pictures
+## Error Messages
 <p align="center">
-  <img src="Physical Clock Pictures/Board.jpg" width="200", height="200"/>
-  <img src="Physical Clock Pictures/Clock from the inside.jpg" width="200, height="200"/>
-  <img src="Physical Clock Pictures/Physical Clock 1.JPG" width="200"/>
-  <img src="Physical Clock Pictures/Physical Clock 2.JPG" width="200"/>
+  <img src="No Internet Msg.jpg" width="200"/>
+  <img src="Task Error Msg 1.jpg" width="200"/>
+  <img src="Task Error Msg 2.jpg" width="200"/>
 </p>
-
