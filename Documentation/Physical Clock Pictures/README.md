@@ -12,6 +12,6 @@
 
 ## A look from outside
 <p align="center">
-  <img src="Physical Clock 1.JPG" width="200"/>
+  <img src="Physical Clock 1.JPG" width="200" height="100"/>
   <img src="Physical Clock 2.JPG" width="200"/>
 </p>
