@@ -67,3 +67,11 @@ Your WiseRise device is now successfully connected and ready for use!
   <img src="App Screenshots/Task Error Msg 1.jpg" width="200"/>
   <img src="App Screenshots/Task Error Msg 2.jpg" width="200"/>
 </p>
+
+# Physical Clock Pictures
+<p align="center">
+  <img src="Physical Clock Pictures/Board.jpg" width="200", height="200"/>
+  <img src="Physical Clock Pictures/Clock from the inside.jpg" width="200, height="200"/>
+  <img src="Physical Clock Pictures/Physical Clock 1.JPG" width="200"/>
+  <img src="Physical Clock Pictures/Physical Clock 2.JPG" width="200"/>
+</p>
