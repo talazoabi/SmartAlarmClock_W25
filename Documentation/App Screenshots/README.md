@@ -36,3 +36,9 @@
 <p align="center">
   <img src="Settings Page.jpg" width="200"/>
 </p>
+
+## Error Messages
+<p align="center">
+  <img src="Task Error Msg 1.jpg" width="200"/>
+  <img src="Task Error Msg 2.jpg" width="200"/>
+</p>
