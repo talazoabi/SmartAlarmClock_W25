@@ -8,7 +8,6 @@
 ## A look from inside
 <p align="center">
   <img src="Clock from the inside.jpg" width="200"/>
-  <img src="Initialization Guide Page 2.jpg" width="200"/>
 </p>
 
 ## A look from outside
