@@ -39,6 +39,7 @@
 
 ## Error Messages
 <p align="center">
+  <img src="No Internet Msg.jpg" width="200"/>
   <img src="Task Error Msg 1.jpg" width="200"/>
   <img src="Task Error Msg 2.jpg" width="200"/>
 </p>
