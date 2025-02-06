@@ -48,7 +48,7 @@
 ![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Documentation/ConnectionDiagram.png)
 
 ## 🎨 Project Poster:
-![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Assets/Project%20Poster.jpg)
+![WiseRise](https://github.com/talazoabi/SmartAlarmClock_W25/blob/main/Assets/Project%20Poster.JPG)
  
 This project is part of **ICST - The Interdisciplinary Center for Smart Technologies, Taub Faculty of Computer Science, Technion**  
 🔗 [ICST Website](https://icst.cs.technion.ac.il/)
