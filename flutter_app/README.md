@@ -26,8 +26,12 @@ Ensure the following before running the app:
 ### 🛠 Install Flutter SDK
 Follow the [official guide](https://flutter.dev/docs/get-started/install).
 
-### 🔥 Firebase Setup
-Add `google-services.json` to `android/app/`.
+### 🔥 Firebase & Google Cloud Setup
+1. Add `google-services.json` to `android/app/`.
+2. Set up a Firebase project and enable Authentication.
+3. Go to [Google Cloud Console](https://console.cloud.google.com/).
+4. Enable the **Google Calendar API** for your project.
+5. Create OAuth credentials and configure the necessary scopes for Google Calendar synchronization.
 
 ### 📦 Install Dependencies
 ```sh
